@@ -1,5 +1,7 @@
 # board
 ## today
+### 12/1/2022-fishey
+[read](https://docs.google.com/document/d/1nbLM7XKOofbFFOm1gDttitj2F7jq4TNkLXHwXKtWcus/edit?usp=sharing)
 ### 5/1/2022-slide
 [watch the video](https://drive.google.com/file/d/1hBH_0wyqLQKvX2_CmMowTANJ3E8N8bDY/view?usp=sharing)
 ### 5/1/2022-river
